@@ -1,0 +1,55 @@
+{
+	"platform": "Android",
+	"locales": [
+	  {
+		"locale": "en",
+		"strings": {
+			"dis":"dise",
+			"ta2em se3a":"ta2em se3a",
+			"lampader":"lampader",
+			"nhas":"nhas",
+			"mafruchat":"mafruchat",
+			"vase":"vase",
+			"plat":"plat",
+			"language": "Language",
+			"lang_desc1": "Select a language",
+			"change_language": "Change Language",
+			"lang_desc2": "You can change the language here.",
+			"Select Language": "Select Language",
+			"message":"Welcome to the best..\nTartoussi Antiques",
+			"logout": "Logout",
+			"favorites": "Favorites",
+			"languages": "Languages",
+			"search": "Search",
+			"home": "Home",
+			"Tartoussi":"Tartoussi_antiques"
+			
+		}
+	  },
+	  {
+		"locale": "ar",
+		"strings": {
+			"dis":"انتيك",
+			"ta2em se3a":"طقم ساعه",
+			"lampader":"لمبادر",
+			"nhas":"نحاس",
+			"mafruchat":"مفروشات",
+			"vase":"فاز",
+			"plat":"صحون",
+			"language": "اللغه",
+			"lang_desc1": "اختار لغه",
+			"change_language": "تغير اللغه",
+			"lang_desc2": "هل تريد تغيير اللغه",
+			"Select Language": "اختار اللغه",
+			"message":"مرحبًا بكم في الأفضل..\nتحف طرطوسي",
+			"logout": "تسجيل الخروج",
+			"favorites": "المفضلة",
+			"languages": "اللغات",
+			"search": "بحث",
+			"home": "الرئيسية",
+			"Tartoussi":"طرطوسي"
+		}
+	  }
+	]
+  }
+  
